@@ -1,0 +1,1 @@
+spark2.2  java example project with maven dependecy .
